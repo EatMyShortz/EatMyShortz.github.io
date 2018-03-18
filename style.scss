@@ -54,7 +54,11 @@ table, th, td {
 }
 
 th {
-    text-align: center;
+    text-align: middle;
+}
+
+th, td {
+    padding: 15px;
 }
 
 table {
